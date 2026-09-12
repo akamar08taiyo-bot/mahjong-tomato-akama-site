@@ -1,0 +1,18 @@
+{
+  "name": "麻雀計算アプリこがっち",
+  "short_name": "こがっち",
+  "description": "麻雀対局後の申告収支・ゲーム代・チップをまとめて精算",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f8f4",
+  "theme_color": "#0c4a38",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "./loading-koga-mahjong-cute.png",
+      "sizes": "2048x2048",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
